@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p style={{fontSize: '6rem'}}>Иди нахуй</p>
+      <p style={{fontSize: '6rem'}}>Кто зашел сюда тот пидор</p>
       <video
         src="/cat.mp4"
         autoPlay
