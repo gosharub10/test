@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p style={{fontSize: '3rem'}}>леха лох</p>
+      <p style={{fontSize: '3rem'}}>Илья лох</p>
       
       <img 
         src="/deenis.jpg"
